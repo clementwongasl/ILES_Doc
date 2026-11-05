@@ -1,0 +1,12 @@
+LC17a AV Statistics - Joint Operation_2026-08-01_to_2026-08-31.xlsx
+LC17a AV Statistics - Joint Operation_2026-09-01_to_2026-09-30.xlsx
+LC18a AV Statistics - LandsD’s Own Operation (Single Operation)_2026-08-01_to_2026-08-31.xlsx
+LC18a AV Statistics - LandsD’s Own Operation (Single Operation)_2026-09-01_to_2026-09-30.xlsx
+LC19 Bicycle Statistics_2026-01-01_to_2026-03-31.xlsx
+LC20 Bicycle Statistics - Breakdown of Automated Rental Bicycle_2026-01-01_to_2026-03-31.xlsx
+LC21 Skip Statistics - Time taken_2026-04-01_to_2026-06-30.xlsx
+LC22 Skip Statistics - Consolidated_2026-04-01_to_2026-06-30.xlsx
+LC23 Skip Statistics - 18 DCs Breakdown_2026-01-01_to_2026-06-30.xlsx
+LC24 Skip Statistics - Breakdown of Joint Operation_2026-04-01_to_2026-06-30.xlsx
+LC26 Skip Statistics - Operator Information_2026-04-01_to_2026-06-30.xlsx
+LC27a C&D Statistics - Quarterly Fly-tipping Indicator_2026-07-01_to_2026-09-30.xlsx
